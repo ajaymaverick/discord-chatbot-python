@@ -10,3 +10,5 @@
 * postgres as data store
 
 * procfile, runtime.txt and requirements.txt for heroku deployment
+
+** Feature changes
